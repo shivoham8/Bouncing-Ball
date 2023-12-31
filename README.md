@@ -74,3 +74,11 @@ html {
 1. Copy the CSS code into a separate file or section of your HTML file.
 2. Apply the styles to the desired HTML element, such as a <div> with the class "ball".
 3. Adjust the container size, ball size, colors, or animation durations to fit your design preferences.
+
+## Features
+
+- **Fluid animation:** The box smoothly floats upward and across the screen.
+- **Customizable:** Easily adjust container size, box size, colors, or animation durations to fit design preferences.
+- **Simple integration:** Copy and paste the provided HTML and CSS code into your project for quick implementation.
+
+Feel free to use and modify this code to enhance the visual appeal of your web projects. Explore different color schemes, sizes, and durations to create a unique animated effect.
