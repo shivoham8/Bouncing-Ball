@@ -16,6 +16,7 @@
     </div>
 </body>
 </html>
+```
 
 ## CSS Code
 ```css
@@ -59,4 +60,17 @@ html {
         left: 100%;
     }
 }
+```
 
+## Animation Description
+
+- The provided CSS code creates an animated floating ball.
+- The ball moves upward along the y-axis and simultaneously from left to right along the x-axis in an infinite loop.
+- This animation adds a dynamic and visually appealing element to a webpage.
+- Adjustments to colors, sizes, or animation durations can be made for customization.
+
+## How to Use
+
+1. Copy the CSS code into a separate file or section of your HTML file.
+2. Apply the styles to the desired HTML element, such as a <div> with the class "ball".
+3. Adjust the container size, ball size, colors, or animation durations to fit your design preferences.
